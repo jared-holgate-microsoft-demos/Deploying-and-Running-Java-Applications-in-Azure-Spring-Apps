@@ -37,3 +37,5 @@ src/secretfile.txt
 src/kubernetes/createuser.sql
 src/staging-acr/*.jar
 env.sh
+logs.json
+metrics.json
